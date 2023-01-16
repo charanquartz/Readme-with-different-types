@@ -391,3 +391,15 @@ window.MathJax = {
     }
   }
 };
+
+
+
+
+
+
+//
+
+``` { .lang #example style="color: #333; background: #f8f8f8;" }
+A code block with inline styles. Fancy!
+```
+//
