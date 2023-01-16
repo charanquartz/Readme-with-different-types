@@ -411,3 +411,32 @@ A code block with inline styles. Fancy!
 [![](https://mermaid.ink/img/pako:eNpNj8GKwkAMhl8l5LRCfYEeFtQu7EERqjfHQ-hEHdpOlmmG7tL23Z1ahM0p_N8XyD9gJZYxx1sjffWgoLAvjYc0m8s3BQts73yF9fpz3Dtfg_KvjrD9KCX6Ba4WfTs7sBsKrlznxE9LvHudHj2PUFxK7mKjIJ6v_-m5lxG-3lR7SRQzbDm05Gx6bphtg_rglg3mabUUaoPGT8mjqHL68xXmGiJnGH8sKReO7oFazG_UdCll61TCYWn7Kj09AQmMUko?type=png)](https://mermaid.live/edit#pako:eNpNj8GKwkAMhl8l5LRCfYEeFtQu7EERqjfHQ-hEHdpOlmmG7tL23Z1ahM0p_N8XyD9gJZYxx1sjffWgoLAvjYc0m8s3BQts73yF9fpz3Dtfg_KvjrD9KCX6Ba4WfTs7sBsKrlznxE9LvHudHj2PUFxK7mKjIJ6v_-m5lxG-3lR7SRQzbDm05Gx6bphtg_rglg3mabUUaoPGT8mjqHL68xXmGiJnGH8sKReO7oFazG_UdCll61TCYWn7Kj09AQmMUko)
 
 //
+
+
+
+---
+title: Animal example
+---
+classDiagram
+    note "From Duck till Zebra"
+    Animal <|-- Duck
+    note for Duck "can fly\ncan swim\ncan dive\ncan help in debugging"
+    Animal <|-- Fish
+    Animal <|-- Zebra
+    Animal : +int age
+    Animal : +String gender
+    Animal: +isMammal()
+    Animal: +mate()
+    class Duck{
+        +String beakColor
+        +swim()
+        +quack()
+    }
+    class Fish{
+        -int sizeInFeet
+        -canEat()
+    }
+    class Zebra{
+        +bool is_wild
+        +run()
+    }
