@@ -159,6 +159,26 @@ flowchart TD
 
 
 ```mermaid
+flowchart LR
+    A-->B
+
+
+```
+
+
+
+```mermaid
+flowchart LR
+    A --- B
+
+
+```
+
+
+
+```mermaid
+flowchart LR
+    A-- This is the text! ---B
 
 
 ```
@@ -167,26 +187,16 @@ flowchart TD
 
 ```mermaid
 
+flowchart LR
+    A---|This is the text|B
 
 ```
 
 
 
 ```mermaid
-
-
-```
-
-
-
-```mermaid
-
-
-```
-
-
-
-```mermaid
+flowchart LR
+    A-->|text|B
 
 
 ```
@@ -194,6 +204,8 @@ flowchart TD
 
 
 ```mermaid
+flowchart LR
+   A-.->B;
 
 
 ```
@@ -202,30 +214,8 @@ flowchart TD
 
 
 ```mermaid
-
-
-```
-
-
-
-
-```mermaid
-
-
-```
-
-
-
-
-```mermaid
-
-
-```
-
-
-
-
-```mermaid
+flowchart LR
+   A-. text .-> B
 
 
 ```
@@ -235,6 +225,8 @@ flowchart TD
 
 ```mermaid
 
+flowchart LR
+   A ==> B
 
 ```
 
@@ -243,6 +235,8 @@ flowchart TD
 
 ```mermaid
 
+flowchart LR
+   A == text ==> B
 
 ```
 
@@ -251,6 +245,8 @@ flowchart TD
 
 ```mermaid
 
+flowchart LR
+   A -- text --> B -- text2 --> C
 
 ```
 
@@ -258,6 +254,8 @@ flowchart TD
 
 
 ```mermaid
+flowchart LR
+   a --> b & c--> d
 
 
 ```
@@ -266,6 +264,44 @@ flowchart TD
 
 
 ```mermaid
+flowchart TB
+    A & B--> C & D
+
+
+```
+
+
+
+
+```mermaid
+flowchart TB
+    A --> C
+    A --> D
+    B --> C
+    B --> D
+
+
+```
+
+
+
+
+```mermaid
+flowchart LR
+    A --o B
+    B --x C
+
+
+```
+
+
+
+
+```mermaid
+flowchart LR
+    A o--o B
+    B <--> C
+    C x--x D
 
 
 ```
