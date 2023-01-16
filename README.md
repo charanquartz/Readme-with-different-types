@@ -180,7 +180,7 @@ solid cube_corner
 endsolid
 ```
 
-```classDiagram
+```mermaid 
 classDiagram
 Class01 <|-- AveryLongClass : Cool
 Class03 *-- Class04
