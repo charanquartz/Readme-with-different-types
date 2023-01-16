@@ -414,29 +414,4 @@ A code block with inline styles. Fancy!
 
 
 
----
-title: Animal example
----
-classDiagram
-    note "From Duck till Zebra"
-    Animal <|-- Duck
-    note for Duck "can fly\ncan swim\ncan dive\ncan help in debugging"
-    Animal <|-- Fish
-    Animal <|-- Zebra
-    Animal : +int age
-    Animal : +String gender
-    Animal: +isMammal()
-    Animal: +mate()
-    class Duck{
-        +String beakColor
-        +swim()
-        +quack()
-    }
-    class Fish{
-        -int sizeInFeet
-        -canEat()
-    }
-    class Zebra{
-        +bool is_wild
-        +run()
-    }
+[![](https://mermaid.ink/img/pako:eNptUstOwzAQ_BXLJxDND0RcEKUSh556Q5bQJt6mq_iR-kEppf-O4ySSVerTaGZn7F3vhbdWIq95VVXCBAoKa_ZiSINi-A16UChM1loF3q8JOgdaGJaOsQGZ4BtnNVvHtmeBlGIf2DgQfCqZk55_qyqXFMa9dZNL8BYM26uzSJck5E-kZyjpC2d4QDUwShQ2sevIdPeu2JA__GenF5V0zZ7IBAYd3tK74FI269BIdKU4WvwWdIIPjzeChoALmceUG7tMxHiW2Aahf7XKukIa213MmThGaPuFuZapY3tFajX24OkH380GMRRCGtgbhLsZeRjl0xprFSP_eSIlC9pFU_j5imt0GkimVcluwcMBNQpeJyjB9eN_XFMdxGB3Z9PyOriIKx4HmcYzLw6v96B8YlFSsG477V5ewesfVDfKBA?type=png)](https://mermaid.live/edit#pako:eNptUstOwzAQ_BXLJxDND0RcEKUSh556Q5bQJt6mq_iR-kEppf-O4ySSVerTaGZn7F3vhbdWIq95VVXCBAoKa_ZiSINi-A16UChM1loF3q8JOgdaGJaOsQGZ4BtnNVvHtmeBlGIf2DgQfCqZk55_qyqXFMa9dZNL8BYM26uzSJck5E-kZyjpC2d4QDUwShQ2sevIdPeu2JA__GenF5V0zZ7IBAYd3tK74FI269BIdKU4WvwWdIIPjzeChoALmceUG7tMxHiW2Aahf7XKukIa213MmThGaPuFuZapY3tFajX24OkH380GMRRCGtgbhLsZeRjl0xprFSP_eSIlC9pFU_j5imt0GkimVcluwcMBNQpeJyjB9eN_XFMdxGB3Z9PyOriIKx4HmcYzLw6v96B8YlFSsG477V5ewesfVDfKBA)
