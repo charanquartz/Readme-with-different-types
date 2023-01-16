@@ -341,6 +341,9 @@ YOUR TABLE
 
 
 
+## About me
+
+<!-- TO DO: add more details about me later -->
 
 
 
@@ -348,6 +351,10 @@ YOUR TABLE
 
 
 
+... when `x<y` we have ...
 
+
+... when `x < y` we have ...
+... when `x &lt; y` we have ...
 
 
