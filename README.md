@@ -403,3 +403,11 @@ window.MathJax = {
 A code block with inline styles. Fancy!
 ```
 //
+
+
+
+//
+
+[![](https://mermaid.ink/img/pako:eNpNj8GKwkAMhl8l5LRCfYEeFtQu7EERqjfHQ-hEHdpOlmmG7tL23Z1ahM0p_N8XyD9gJZYxx1sjffWgoLAvjYc0m8s3BQts73yF9fpz3Dtfg_KvjrD9KCX6Ba4WfTs7sBsKrlznxE9LvHudHj2PUFxK7mKjIJ6v_-m5lxG-3lR7SRQzbDm05Gx6bphtg_rglg3mabUUaoPGT8mjqHL68xXmGiJnGH8sKReO7oFazG_UdCll61TCYWn7Kj09AQmMUko?type=png)](https://mermaid.live/edit#pako:eNpNj8GKwkAMhl8l5LRCfYEeFtQu7EERqjfHQ-hEHdpOlmmG7tL23Z1ahM0p_N8XyD9gJZYxx1sjffWgoLAvjYc0m8s3BQts73yF9fpz3Dtfg_KvjrD9KCX6Ba4WfTs7sBsKrlznxE9LvHudHj2PUFxK7mKjIJ6v_-m5lxG-3lR7SRQzbDm05Gx6bphtg_rglg3mabUUaoPGT8mjqHL68xXmGiJnGH8sKReO7oFazG_UdCll61TCYWn7Kj09AQmMUko)
+
+//
