@@ -1,4 +1,6 @@
 refer this link for more info    https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams
+                                https://geojson.io/
+                                https://www.mathjax.org/
 
 ### Here's a topoJSON map in markdown
 
