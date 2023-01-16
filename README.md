@@ -362,3 +362,23 @@ YOUR TABLE
   a & b \\\\
   c & c
 \\end{array}
+
+
+
+
+\(
+   \def\RR{{\bf R}}
+   \def\bold#1{{\bf #1}}
+\)
+
+
+
+
+window.MathJax = {
+  tex: {
+    macros: {
+      RR: "{\\bf R}",
+      bold: ["{\\bf #1}", 1]
+    }
+  }
+};
