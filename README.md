@@ -358,3 +358,7 @@ YOUR TABLE
 ... when `x &lt; y` we have ...
 
 
+\\begin{array}{cc}
+  a & b \\\\
+  c & c
+\\end{array}
