@@ -216,6 +216,15 @@ This expression uses `\$` to display a dollar sign: $\sqrt{\$4}$
 
 
 
+
+\begin{equation}
+  x = a_0 + \cfrac{1}{a_1 
+          + \cfrac{1}{a_2 
+          + \cfrac{1}{a_3 + \cfrac{1}{a_4} } } }
+\end{equation}
+
+
+
 To split <span>$</span>100 in half, we calculate $100/2$
 
 
