@@ -415,3 +415,11 @@ A code block with inline styles. Fancy!
 
 
 [![](https://mermaid.ink/img/pako:eNptUstOwzAQ_BXLJxDND0RcEKUSh556Q5bQJt6mq_iR-kEppf-O4ySSVerTaGZn7F3vhbdWIq95VVXCBAoKa_ZiSINi-A16UChM1loF3q8JOgdaGJaOsQGZ4BtnNVvHtmeBlGIf2DgQfCqZk55_qyqXFMa9dZNL8BYM26uzSJck5E-kZyjpC2d4QDUwShQ2sevIdPeu2JA__GenF5V0zZ7IBAYd3tK74FI269BIdKU4WvwWdIIPjzeChoALmceUG7tMxHiW2Aahf7XKukIa213MmThGaPuFuZapY3tFajX24OkH380GMRRCGtgbhLsZeRjl0xprFSP_eSIlC9pFU_j5imt0GkimVcluwcMBNQpeJyjB9eN_XFMdxGB3Z9PyOriIKx4HmcYzLw6v96B8YlFSsG477V5ewesfVDfKBA?type=png)](ss)
+
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
