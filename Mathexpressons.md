@@ -5,6 +5,12 @@
 `Step 4:`   At the end of the next line of the expression end it with ` ``` `.\
 `Step 5:`   🎉 That's it the Mathematical expressions are generated.
 
+
+## Info 2
+
+`Step 1:`   Go to `https://www.mathjax.org/#demo` to the live live and you can test it. \
+
+
  ## Expression
 If $y=r^3/3$ then the differential of $y$ $(dy)$ is what?
 
