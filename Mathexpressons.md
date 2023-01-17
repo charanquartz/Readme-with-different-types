@@ -51,7 +51,7 @@ a^2+b^2=c^2
 ```
 # Expression 9
 ```math
-\lim_{x \to 0} f(x) = 8```
+\lim_{x \to 0} f(x) = 8
 ```
 # Expression 10
 
