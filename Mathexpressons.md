@@ -32,6 +32,7 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 ```
 
 # Expression 5 
+This expression uses `\$` to display a dollar sign: $\sqrt{\$4}$
 
 # Expression 6
 
