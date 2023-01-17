@@ -55,6 +55,10 @@ a^2+b^2=c^2
 ```
 # Expression 10
 
+```math
+\int \frac{1}{x} dx = \ln \left| x \right| + C
+
+```
 # Expression 11
 
 # Expression
