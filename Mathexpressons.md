@@ -73,7 +73,9 @@ a^2+b^2=c^2
 \int \frac{1}{x} dx = \ln \left| x \right| + C
 ```
 # Expression 11
-
+```math
+(\alpha +\frac{2\beta }{\gamma } ) + by_{a}^{x} + (n \log {\color{Magenta} (a+b)}) / 2^{n^{2}}
+```
 # Expression
 
 # Expression
