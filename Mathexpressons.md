@@ -25,6 +25,11 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 
 
 # Expression 4 
+**Here is some math!**
+
+```math
+\sqrt{3}
+```
 
 # Expression 5 
 
