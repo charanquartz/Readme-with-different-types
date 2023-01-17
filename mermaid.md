@@ -19,7 +19,7 @@ flowchart LR
 #
 ```mermaid
 flowchart LR
-    AB
+    
     click A "http://www.github.com" _blank
     click B "http://www.github.com" "Open this in a new tab" _blank
 
