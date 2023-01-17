@@ -1,7 +1,7 @@
 ### Info
 `Step 1:`   Go to `http://latex.codecogs.com/` to generate yours. \
 `Step 2:`   Copy the expression generated in the text box. \
-`Step 3:`   Add prefix ` ```math ` and paste the generated code. \
+`Step 3:`   Add prefix ` ```math ` and paste the generated code to the next line of it. \
 `Step 4:`   At the end of the next line of the expression end it with ` ``` `.
 
  ## Expression
