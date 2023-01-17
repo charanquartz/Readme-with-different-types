@@ -1,3 +1,5 @@
+### Info
+ go to `http://latex.codecogs.com/` to generate yours
 If $y=r^3/3$ then the differential of $y$ $(dy)$ is what?
 
 $$
