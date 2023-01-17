@@ -42,9 +42,17 @@ To split <span>$</span>100 in half, we calculate $100/2$
 \alpha + \frac{2\beta}{\gamma}
 ```
 # Expression 8
+This math is inline $`a^2+b^2=c^2`$.
 
+This is on a separate line
+
+```math
+a^2+b^2=c^2
+```
 # Expression 9
-
+```math
+\lim_{x \to 0} f(x) = 8```
+```
 # Expression 10
 
 # Expression 11
