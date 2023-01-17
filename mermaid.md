@@ -24,3 +24,9 @@ flowchart LR
     click B "http://www.github.com" "Open this in a new tab" _blank
 
 ```
+
+# 
+```mermaid
+graph TD
+    foo(fa:fa-bug foo)
+    ```
