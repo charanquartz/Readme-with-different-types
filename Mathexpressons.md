@@ -1,4 +1,4 @@
-### Info
+# Info
 `Step 1:`   Go to `http://latex.codecogs.com/` to generate yours. \
 `Step 2:`   Copy the expression generated in the text box. \
 `Step 3:`   Add prefix ` ```math ` and paste the generated code to the next line of it. \
@@ -6,12 +6,12 @@
 `Step 5:`   🎉 That's it the Mathematical expressions are generated.
 
 
-## Info 2
+# Info 2
 
 `Step 1:`   Go to `https://www.mathjax.org/#demo` to the live live and you can test it. \
 
 
- ## Expression
+ # Expression
 If $y=r^3/3$ then the differential of $y$ $(dy)$ is what?
 
 $$
