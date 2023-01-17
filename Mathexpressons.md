@@ -9,7 +9,7 @@
 # Info 2
 
 `Ref I:`   Go to `https://www.mathjax.org/#demo` to the live live and you can test it. \
-`Ref II:`  To view the page source code head over to<[Source Code](https://github.com/charanquartz/Readme-with-different-types/raw/main/Mathexpressons.md).
+`Ref II:`  To view the page source code head over to[Source Code](https://github.com/charanquartz/Readme-with-different-types/raw/main/Mathexpressons.md).
 
 <!-->
 `Ref II:`  To view the page source code head over to<h2 style="display:inline">&nbsp;[Source Code](https://github.com/charanquartz/Readme-with-different-types/raw/main/Mathexpressons.md)</h2>.
