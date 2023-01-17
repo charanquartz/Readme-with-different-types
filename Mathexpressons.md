@@ -1,4 +1,4 @@
-# Info
+# Info for Mathematical Expressions 
 `Step 1:`   Go to `http://latex.codecogs.com/` to generate yours. \
 `Step 2:`   Copy the expression generated in the text box. \
 `Step 3:`   Add prefix ` ```math ` and paste the generated code to the next line of it. \
@@ -11,7 +11,9 @@
 `Ref I:`   Go to `https://www.mathjax.org/#demo` to the live live and you can test it. \
 `Ref II:`  To view the page source code head over to [Source Code](https://github.com/charanquartz/Readme-with-different-types/raw/main/Mathexpressons.md).
 
-
+# Info 3 UML diagrams and Others
+`step 1:` Go to `https://mermaid-js.github.io/mermaid` to view syntax code for UML diagrams.\
+`step 2:` Go to `https://mermaid.live` to view it live.
  # Expression
 If $y=r^3/3$ then the differential of $y$ $(dy)$ is what?
 
