@@ -9,7 +9,7 @@
 # Info 2
 
 `Ref I:`   Go to `https://www.mathjax.org/#demo` to the live live and you can test it. \
-`Ref II:`  To view the page source code head over to<h2 style="display:inline">[Source Code](https://github.com/charanquartz/Readme-with-different-types/raw/main/Mathexpressons.md)</h2>.
+`Ref II:`  To view the page source code head over to<h2 style="display:inline">&nbsp;[Source Code](https://github.com/charanquartz/Readme-with-different-types/raw/main/Mathexpressons.md)</h2>.
 
 <!-->
 <h2 style="display:inline">ABC</h2><h3 style="display:inline">abc</h3>
