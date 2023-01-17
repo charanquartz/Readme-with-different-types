@@ -1,12 +1,7 @@
-<<<<<<< HEAD
 ### Info
  go to `http://latex.codecogs.com/` to generate yours
 
  ## Expression
-=======
-### Info
- go to `http://latex.codecogs.com/` to generate yours
->>>>>>> 1353f02590443b8402247dcdf9829d7df15efe40
 If $y=r^3/3$ then the differential of $y$ $(dy)$ is what?
 
 $$
