@@ -8,7 +8,9 @@
 
 # Info 2
 
-`Step 1:`   Go to `https://www.mathjax.org/#demo` to the live live and you can test it. \
+`Ref I:`   Go to `https://www.mathjax.org/#demo` to the live live and you can test it. \
+
+`Ref II:`  To view the page source code head over to `https://github.com/charanquartz/Readme-with-different-types/raw/main/Mathexpressons.md` \
 
 
  # Expression
