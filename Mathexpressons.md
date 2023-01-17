@@ -13,7 +13,7 @@ $$
 
 # Expression 1
 When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
-$$ \begin{align}x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
 # Expression 2
 This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
