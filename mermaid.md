@@ -29,4 +29,4 @@ flowchart LR
 ```mermaid
 graph TD
     foo(fa:fa-bug foo)
-    ```
+```
