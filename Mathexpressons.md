@@ -9,7 +9,7 @@
 # Info 2
 
 `Ref I:`   Go to `https://www.mathjax.org/#demo` to the live live and you can test it. \
-`Ref II:`  To view the page source code head over to[Source Code](https://github.com/charanquartz/Readme-with-different-types/raw/main/Mathexpressons.md).
+`Ref II:`  To view the page source code head over to [Source Code](https://github.com/charanquartz/Readme-with-different-types/raw/main/Mathexpressons.md).
 
 <!--
 `Ref II:`  To view the page source code head over to<h2 style="display:inline">&nbsp;[Source Code](https://github.com/charanquartz/Readme-with-different-types/raw/main/Mathexpressons.md)</h2>.
@@ -86,7 +86,7 @@ a^2+b^2=c^2
 ```
 # Expression
 
-```mermaid
+```math
 (10x^{2^{(n+a)2}}) + 10x_{3}^{9}\log_{10} + \underbrace{\begin{Vmatrix}
 2 & 4 & 5 \\
 11 & 22 & 33 \\
@@ -95,7 +95,9 @@ a^2+b^2=c^2
 ```
 
 # Expression
-
+```math
+\int_{2}^{4}x^{2}dx = 2x  \frac{dy}{dx}
+```
 # Expression
 
 # Expression
