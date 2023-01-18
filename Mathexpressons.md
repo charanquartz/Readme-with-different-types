@@ -86,6 +86,14 @@ a^2+b^2=c^2
 ```
 # Expression
 
+```mermaid
+(10x^{2^{(n+a)2}}) + 10x_{3}^{9}\log_{10} + \underbrace{\begin{Vmatrix}
+2 & 4 & 5 \\
+11 & 22 & 33 \\
+ 23& \frac{2}{5} & 88 \\
+\end{Vmatrix}}
+```
+
 # Expression
 
 # Expression
